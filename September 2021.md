@@ -53,7 +53,7 @@
   - Wear-Phone-Interactions Wear-Remote-Interactions Version 1.0.0
 - Wear Compose Version 1.0.0-alpha06
   - [Wear OS Jetpack libraries now in stable!](https://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html)
-  - "We strongly recommend you migrate the libraries within your Wear OS apps from the Wearable Support library to their AndroidX equivalents as we make them available in stable."
+  - We strongly recommend you migrate the libraries within your Wear OS apps from the Wearable Support library to their AndroidX equivalents as we make them available in stable.
 - [Hilt extensions - MAD Skills](https://www.youtube.com/watch?v=53higH5LIBs)
   - WorkManager extension @HiltWorker
     - not in core library. androidx.hilt:hilt-work, androidx.hilt:hilt-compiler
