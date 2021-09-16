@@ -4,6 +4,8 @@
 
 ### Google Developers
 
+- [App actions for Android: Capabilities and static shortcuts](https://www.youtube.com/watch?v=JOOyIe50-tE)
+  - Google Assistant と音声操作周り
 - [Jetpack library update](https://developer.android.com/jetpack/androidx/versions/all-channel#september_15_2021)
   - Activity Version 1.4.0-alpha02
     - [Activity 1.4.0-alpha02 converts the ActivityResultContract base class and the prebuilt implementations in ActivityResultContracts to Kotlin](https://twitter.com/ianhlake/status/1438271761879998466)
