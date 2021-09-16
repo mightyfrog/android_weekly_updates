@@ -1,4 +1,4 @@
-# Android Weekly (09/12/2021)
+# Android Weekly Update (09/12/2021)
 
 ## Sep 2021 Week 3 (9/12~)
 
