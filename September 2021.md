@@ -4,6 +4,22 @@
 
 ### Google Developers
 
+- [App performance to drive app excellence](https://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html)
+  - The main dimensions of high performance
+    - Stability
+      - [The ANR troubleshooting guide](https://developer.android.com/topic/performance/vitals/anr)
+    - Quick loading
+      - [Cold](https://developer.android.com/topic/performance/vitals/launch-time#cold) startup shouldn't take 5 seconds or longer.
+      - [Warm](https://developer.android.com/topic/performance/vitals/launch-time#warm) startup shouldn't take 2 seconds or longer.
+      - [Hot](https://developer.android.com/topic/performance/vitals/launch-time#hot) startup shouldn't take 1.5 seconds or longer.
+      - [Testing App Startup Performance](https://medium.com/androiddevelopers/testing-app-startup-performance-36169c27ee55)
+    - Fast rendering
+      - [Profile HWUI rendering](https://developer.android.com/topic/performance/rendering/inspect-gpu-rendering)
+      - [Diagnosis tools](https://developer.android.com/topic/performance/vitals/render)
+    - Economical with battery usage
+      - [Android Studio energy profiler](https://developer.android.com/studio/profile/energy-profiler)
+    - Using up-to-date SDKs
+      - [Keep services and dependencies up-to-date](https://developer.android.com/topic/security/best-practices#services-dependencies-updated)
 - [App actions for Android: Capabilities and static shortcuts](https://www.youtube.com/watch?v=JOOyIe50-tE)
   - Google Assistant と音声操作周り
 - [Jetpack library update](https://developer.android.com/jetpack/androidx/versions/all-channel#september_15_2021)
@@ -34,7 +50,7 @@
   - RecyclerView Version 1.3.0-alpha01
     - Added support for stretch overscroll RecyclerView.
       - [Overscroll effect](https://developer.android.com/about/versions/12/overscroll)
-      - EdgeEffect を使うクラスはすべてに同じく適用される。ただ、ライブラリの更新だけじゃ何も変わらん模様。
+      - EdgeEffect を使うクラスはすべてに同じく適用される。ただ、ライブラリの更新だけじゃ何も変わらない模様。
         - RecyclerView
         - ListView
         - ScrollView
