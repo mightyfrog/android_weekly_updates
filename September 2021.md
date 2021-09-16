@@ -33,8 +33,15 @@
   - ProfileInstaller Version 1.1.0-alpha05
   - RecyclerView Version 1.3.0-alpha01
     - Added support for stretch overscroll RecyclerView.
-    - [Overscroll effect](https://developer.android.com/about/versions/12/overscroll)
-    - ライブラリの更新だけじゃ何も変わらん模様
+      - [Overscroll effect](https://developer.android.com/about/versions/12/overscroll)
+      - EdgeEffect を使うクラスはすべてに同じく適用される。ただ、ライブラリの更新だけじゃ何も変わらん模様。
+        - RecyclerView
+        - ListView
+        - ScrollView
+        - NestedScrollView
+        - HorizontalScrollView
+        - ViewPager
+        - ViewPager2
   - ResourceInspection Version 1.0.0-beta01
   - ViewPager Version 1.1.0-alpha01
     - Added support for Android 12 stretch over scroll edge effect.
