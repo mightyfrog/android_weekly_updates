@@ -1,6 +1,6 @@
-# Android Weekly Update (09/12/2021)
+# Android Weekly Updates (September 2021)
 
-## Sep 2021 Week 3 (9/12~)
+## Week 3 (09/12 ~)
 
 ### Google Developers
 
