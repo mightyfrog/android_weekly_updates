@@ -1,5 +1,15 @@
 # Android Weekly Updates (September 2021)
 
+## Week 4 (09/18 ~)
+
+### Google Developers
+
+- [Making permissions auto-reset available to billions more devices](https://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html)
+  - 2021 12 月からパーミッションの自動削除が Android 6.0 (23) 以上のデバイスにも適用される。
+  - Android 11 (30) 以降は自動で適用、23 ~ 29 は指定可。
+
+---
+
 ## Week 3 (09/12 ~)
 
 ### Google Developers
