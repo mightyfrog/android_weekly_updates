@@ -4,6 +4,11 @@
 
 ### Google Developers
 
+- [Using WorkManager on Android 12](https://medium.com/androiddevelopers/using-workmanager-on-android-12-f7d483ca0ecb)
+  - Android 12 では WorkManager 2.7 を使う
+  - Android 12 で setForegroundAsync() をコールしてるなら、 WorkRequest.Builder.setExpedited(…) に置き換え。
+- [Adjusting the Focus](https://material.io/blog/inclusive-imagery-at-google)
+  - 多様性の中でより多くの人に受け入れられる画像を作る努力してます的な。
 - [App performance to drive app excellence](https://android-developers.googleblog.com/2021/09/app-performance-to-drive-app-excellence.html)
   - The main dimensions of high performance
     - Stability
@@ -58,9 +63,9 @@
         - HorizontalScrollView
         - ViewPager
         - ViewPager2
+    - アップルのパテントが切れて実装できるようになったっぽい。[Tweet](https://twitter.com/SamTheGeek/status/1394834891393613828)
   - ResourceInspection Version 1.0.0-beta01
   - ViewPager Version 1.1.0-alpha01
-    - Added support for Android 12 stretch over scroll edge effect.
   - Wear Complications & Watchface Version 1.0.0-alpha22
   - Wear-Input Wear-Input-Testing Version 1.2.0-alpha01
   - Wear-Phone-Interactions Version 1.1.0-alpha01
@@ -71,6 +76,7 @@
   - [Wear OS Jetpack libraries now in stable!](https://android-developers.googleblog.com/2021/09/wear-os-jetpack-libraries-now-in-stable.html)
   - We strongly recommend you migrate the libraries within your Wear OS apps from the Wearable Support library to their AndroidX equivalents as we make them available in stable.
 - [Hilt extensions - MAD Skills](https://www.youtube.com/watch?v=53higH5LIBs)
+  - [Hilt Extensions in the MAD Skills series](https://medium.com/androiddevelopers/hilt-extensions-in-the-mad-skills-series-f2ed6fcba5fe)
   - WorkManager extension @HiltWorker
     - not in core library. androidx.hilt:hilt-work, androidx.hilt:hilt-compiler
     - [Inject WorkManager with Hilt](https://developer.android.com/training/dependency-injection/hilt-jetpack#workmanager)
