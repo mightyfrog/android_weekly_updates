@@ -63,7 +63,7 @@
         - HorizontalScrollView
         - ViewPager
         - ViewPager2
-    - アップルのパテントが切れて実装できるようになったっぽい。[Tweet](https://twitter.com/SamTheGeek/status/1394834891393613828)
+    - アップルのパテントが切れて実装できるようになったっぽい（現状同じじゃないけど）。[Tweet](https://twitter.com/SamTheGeek/status/1394834891393613828)
   - ResourceInspection Version 1.0.0-beta01
   - ViewPager Version 1.1.0-alpha01
   - Wear Complications & Watchface Version 1.0.0-alpha22
