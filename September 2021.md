@@ -6,7 +6,7 @@
 
 - [Making permissions auto-reset available to billions more devices](https://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html)
   - 2021 12 月からパーミッションの自動削除が Android 6.0 (23) 以上のデバイスにも適用される。
-  - Android 11 (30) 以降は自動で適用、23 ~ 29 は指定可。
+  - Android 11 (30) 以降はデフォルトで有効、23 ~ 29 は手動で設定。
 - [EditTexts - Accessibility on Android](https://www.youtube.com/watch?v=Pjzjs3kB0JA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj&index=6)
   - EditText には android:hint と android:labelFor はちゃんと付けましょう。
 
