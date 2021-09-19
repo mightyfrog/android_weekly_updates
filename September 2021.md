@@ -10,10 +10,16 @@
 - [EditTexts - Accessibility on Android](https://www.youtube.com/watch?v=Pjzjs3kB0JA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj&index=6)
   - EditText には android:hint と android:labelFor はちゃんと付けましょう。
 
-### Reddit
+### r/androiddev
 
 - [App disables itself when Developer Option is enabled. Any security benefits of doing so?](https://www.reddit.com/r/androiddev/comments/pqi6oy/app_disables_itself_when_developer_option_is/)
   - "As someone working in the financial app industry, I can assure you these ideas aren't made up by the developers." そうなんだろうけど、どこの銀行もやってて本当鬱陶しい。
+- [Waves Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pq97wd/waves_animation_with_jetpack_compose/)
+  - [demo](https://twitter.com/manueldidonna/status/1438977513250856960?s=19)
+
+### Other
+
+- Kotlin gradle plugin v1.5.31 released
 
 ---
 
@@ -106,7 +112,8 @@
   - Be precise and concise. ex. Add ボタンは contentDescription ではもっと分かるように Add Task のようにしましょう。
   - 特に意味のない画像とかには contentDescription = null をセット。Divider 画像とか。
 
-### Reddit
+### r/androiddev
+
 
 - [Animated BottomNavigation with native control and jetpack navigation…✨🔖🚀](https://www.reddit.com/r/androiddev/comments/pncba5/animated_bottomnavigation_with_native_control_and/)
   - 実装は面白いけど UI/UX 観点から結構ボコボコに。実装の参考にはなりそう。
