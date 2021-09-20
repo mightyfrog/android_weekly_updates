@@ -4,6 +4,9 @@
 
 ### Google Developers
 
+- [Accessibility in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-accessibility#0)
+  - [Tweet](https://twitter.com/Lojanda/status/1439978973719564290)
+- [Things to know about Flow’s shareIn and stateIn operators](https://medium.com/androiddevelopers/things-to-know-about-flows-sharein-and-statein-operators-20e6ccb2bc74)
 - [Making permissions auto-reset available to billions more devices](https://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html)
   - 2021 12 月からパーミッションの自動削除が Android 6.0 (23) 以上のデバイスにも適用される。
   - Android 11 (30) 以降はデフォルトで有効、23 ~ 29 は手動で設定。
@@ -19,6 +22,8 @@
 
 ### Other
 
+- Java 11 is now the default version on all stacks
+  - Starting from today (9/20), all stacks on Bitrise are set use Java 11 by default, replacing Java 8.
 - Kotlin gradle plugin v1.5.31 released
 
 ---
