@@ -4,9 +4,17 @@
 
 ### Google Developers
 
+- [Migrating from Dagger to Hilt - MAD Skills](https://www.youtube.com/watch?v=Xt1_3Nq4lD0&list=PLWz5rJ2EKKc_9Qo-RBRYhVmME1iR4oeTK)
+  - グローバルな Singleton から始めるて、Activity、Fragment、etc. と個別にやっていくのがおすすめ。
 - [Accessibility in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-accessibility#0)
+  - ✨ New Accessibility in Compose Codelab released!
+Touch target sizes, custom actions, click labels, and a lot more!
   - [Tweet](https://twitter.com/Lojanda/status/1439978973719564290)
 - [Things to know about Flow’s shareIn and stateIn operators](https://medium.com/androiddevelopers/things-to-know-about-flows-sharein-and-statein-operators-20e6ccb2bc74)
+  - The *shareIn* operator returns a SharedFlow instance.
+  - The *stateIn* returns a StateFlow.
+  - Don’t create new instances on each function call.
+  - The shareIn and stateIn operators can be used with cold flows to improve performance, add a buffer when collectors are not present, or even as a caching mechanism!
 - [Making permissions auto-reset available to billions more devices](https://android-developers.googleblog.com/2021/09/making-permissions-auto-reset-available.html)
   - 2021 12 月からパーミッションの自動削除が Android 6.0 (23) 以上のデバイスにも適用される。
   - Android 11 (30) 以降はデフォルトで有効、23 ~ 29 は手動で設定。
