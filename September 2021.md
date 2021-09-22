@@ -4,11 +4,12 @@
 
 ### Google Developers
 
+- [ExoPlayer 2.15.1](https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md)
 - [Play Core Library 1.10.1](https://developer.android.com/reference/com/google/android/play/core/release-notes)
   - Increased Android minimum SDK version to 14 (ICS)
-- [Make your Android apps more accessible for all users in this new learning pathway! ](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+- [Make your Android apps more accessible for all users in this new learning pathway!](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
   - Learn to make your Android apps usable by everyone, including people with accessibility needs.
-- [🐶 A new Android Basics in Kotlin codelab just launched! ](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)
+- [🐶 A new Android Basics in Kotlin codelab just launched!](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)
   - Create an app that displays a scrollable list of inspiring text and images using the RecyclerView widget in Android. Along the way, you’ll learn about using lists in Kotlin to store a collection of data.
 - [Migrating from Dagger to Hilt - MAD Skills](https://www.youtube.com/watch?v=Xt1_3Nq4lD0&list=PLWz5rJ2EKKc_9Qo-RBRYhVmME1iR4oeTK)
   - グローバルな Singleton から始めて、Activity、Fragment、etc. と個別にやっていくのがおすすめ。
