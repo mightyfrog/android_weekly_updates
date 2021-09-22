@@ -4,6 +4,8 @@
 
 ### Google Developers
 
+- [Play Core Library 1.10.1](https://developer.android.com/reference/com/google/android/play/core/release-notes)
+  - Increased Android minimum SDK version to 14 (ICS)
 - [Make your Android apps more accessible for all users in this new learning pathway! ](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
   - Learn to make your Android apps usable by everyone, including people with accessibility needs.
 - [🐶 A new Android Basics in Kotlin codelab just launched! ](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)
