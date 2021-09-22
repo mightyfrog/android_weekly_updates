@@ -4,8 +4,12 @@
 
 ### Google Developers
 
+- [Make your Android apps more accessible for all users in this new learning pathway! ](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+  - Learn to make your Android apps usable by everyone, including people with accessibility needs.
+- [🐶 A new Android Basics in Kotlin codelab just launched! ](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3)
+  - Create an app that displays a scrollable list of inspiring text and images using the RecyclerView widget in Android. Along the way, you’ll learn about using lists in Kotlin to store a collection of data.
 - [Migrating from Dagger to Hilt - MAD Skills](https://www.youtube.com/watch?v=Xt1_3Nq4lD0&list=PLWz5rJ2EKKc_9Qo-RBRYhVmME1iR4oeTK)
-  - グローバルな Singleton から始めるて、Activity、Fragment、etc. と個別にやっていくのがおすすめ。
+  - グローバルな Singleton から始めて、Activity、Fragment、etc. と個別にやっていくのがおすすめ。
 - [Accessibility in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-accessibility#0)
   - ✨ New Accessibility in Compose Codelab released!
 Touch target sizes, custom actions, click labels, and a lot more!
@@ -23,6 +27,9 @@ Touch target sizes, custom actions, click labels, and a lot more!
 
 ### r/androiddev
 
+- [Do you think LiveData will ever be deprecated in the next 5 years?](https://www.reddit.com/r/androiddev/comments/pshgmc/do_you_think_livedata_will_ever_be_deprecated_in/)
+- [I've ported the popular Flutter Bloc library into Kotlin and Jetpack Compose - would love some folks to try it out and let me have some feedback.](https://www.reddit.com/r/androiddev/comments/prtg47/ive_ported_the_popular_flutter_bloc_library_into/)
+  - [Kotlin Bloc](https://ptrbrynt.github.io/KotlinBloc/#/getting-started)
 - [App disables itself when Developer Option is enabled. Any security benefits of doing so?](https://www.reddit.com/r/androiddev/comments/pqi6oy/app_disables_itself_when_developer_option_is/)
   - "As someone working in the financial app industry, I can assure you these ideas aren't made up by the developers." そうなんだろうけど、どこの銀行もやってて本当鬱陶しい。
 - [Waves Animation with Jetpack Compose](https://www.reddit.com/r/androiddev/comments/pq97wd/waves_animation_with_jetpack_compose/)
@@ -30,9 +37,7 @@ Touch target sizes, custom actions, click labels, and a lot more!
 
 ### Other
 
-- Java 11 is now the default version on all stacks
-  - Starting from today (9/20), all stacks on Bitrise are set use Java 11 by default, replacing Java 8.
-- Kotlin gradle plugin v1.5.31 released
+- [Kotlin 1.5.31](https://github.com/JetBrains/kotlin/releases/tag/v1.5.31)
 
 ---
 
