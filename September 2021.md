@@ -4,6 +4,19 @@
 
 ### Google Developers
 
+- [Hilt - Live Q&A - MAD Skills](https://www.youtube.com/watch?v=i27aNF-kYR4)
+- [New Android features coming this season](https://blog.google/products/android/new-android-features-coming-season/)
+  - Control your phone with your facial gestures
+  - Control your TV with your phone
+  - Manage day-to-day tasks using Reminders from Assistant
+  - Stay entertained, connected and on track during your drive
+  - Add photos and videos to a passcode-protected space
+  - Express yourself with Gboard
+  - Control who shares with you
+- [Two new tools that make your phone even more accessible](https://blog.google/outreach-initiatives/accessibility/making-android-more-accessible/)
+  - 顔、目の動きとかで操作できるようになるツールが２つ追加。どう違うのかいまいち分からない。
+    - [Camera Switches](https://www.android.com/google-features-on-android/fall-2021/#cameraswitches)
+    - [Project Activate](https://play.google.com/store/apps/details?id=com.google.android.apps.vision.switches)
 - library updates
   - [Google Mobile Ads v20.4.0](https://developers.google.com/android/guides/releases)
   - [Firebase Ads v20.4.0](https://firebase.google.com/support/release-notes/android)
@@ -34,7 +47,7 @@ Touch target sizes, custom actions, click labels, and a lot more!
 ### r/androiddev
 
 - [Do you think LiveData will ever be deprecated in the next 5 years?](https://www.reddit.com/r/androiddev/comments/pshgmc/do_you_think_livedata_will_ever_be_deprecated_in/)
-- [I've ported the popular Flutter Bloc library into Kotlin and Jetpack Compose - would love some folks to try it out and let me have some feedback.](https://www.reddit.com/r/androiddev/comments/prtg47/ive_ported_the_popular_flutter_bloc_library_into/)
+- [I've ported the popular Flutter Bloc library into Kotlin and Jetpack Compose](https://www.reddit.com/r/androiddev/comments/prtg47/ive_ported_the_popular_flutter_bloc_library_into/)
   - [Kotlin Bloc](https://ptrbrynt.github.io/KotlinBloc/#/getting-started)
 - [App disables itself when Developer Option is enabled. Any security benefits of doing so?](https://www.reddit.com/r/androiddev/comments/pqi6oy/app_disables_itself_when_developer_option_is/)
   - "As someone working in the financial app industry, I can assure you these ideas aren't made up by the developers." そうなんだろうけど、どこの銀行もやってて本当鬱陶しい。
