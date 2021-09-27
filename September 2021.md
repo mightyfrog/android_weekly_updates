@@ -7,6 +7,10 @@
 - library updates
   - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
 
+### Other
+
+- [DroidKaigi 2021 Time Table](https://droidkaigi.jp/2021/)
+
 ---
 
 ## Week 4 (09/18 ~)
