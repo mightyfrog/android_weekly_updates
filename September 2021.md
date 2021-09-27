@@ -1,5 +1,14 @@
 # Android Weekly Updates (September 2021)
 
+## Week 5 (09/26 ~)
+
+### Google Developers
+
+- library updates
+  - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
+
+---
+
 ## Week 4 (09/18 ~)
 
 ### Google Developers
