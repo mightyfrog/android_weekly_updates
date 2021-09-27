@@ -4,6 +4,8 @@
 
 ### Google Developers
 
+- [Paging - MAD Skills](https://www.youtube.com/watch?v=Pw-jhS-ucYA&list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
+  - Paging のシリーズ始まるよの案内
 - library updates
   - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
 
