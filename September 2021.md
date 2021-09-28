@@ -8,7 +8,7 @@
   - スプラッシュスクリーン、リップル周りの視覚効果について。
   - 一貫性のあるイフェクトは重要。各アプリが自由にリップルを実装したら何か分からなくなる。
   - "At the same time you wanted be cool without being too opinionated."
-- [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc&
+- [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc)
   - 新しいシリーズは Paging
 list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - library updates
