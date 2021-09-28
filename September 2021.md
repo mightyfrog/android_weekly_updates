@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Android Developers Backstage - Episode 176: Android 12 - S stands for System UI](https://adbackstage.libsyn.com/episode-176-android-12-s-stands-for-system-ui) 
 - [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc&list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - library updates
   - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
