@@ -5,14 +5,28 @@
 ### Google Developers
 
 - [Android Developers Backstage - Episode 176: Android 12 - S stands for System UI](https://adbackstage.libsyn.com/episode-176-android-12-s-stands-for-system-ui)
+  - スプラッシュスクリーン、リップル周りの視覚効果について。
+  - 一貫性のあるイフェクトは重要。各アプリが自由にリップルを実装したら何か分からなくなる。
+  - "At the same time you wanted be cool without being too opinionated."
+- [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc&
   - 新しいシリーズは Paging
-- [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc&list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
+list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - library updates
   - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
+- [Color contrast - Accessibility on Android](https://www.youtube.com/watch?v=RHHpljSTDxA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj)
+  - 前景と背景のコントラストはちゃんと付けましょう。
+  - 視覚障害のある人だけでなく、明るい日光下で使っているユーザも。
+  - 18dp、14dp (bold) 以上は最低 3:1 のコントラスト、それ以外はアイコンも含め 4.5:1 のコントラストにする。
+  - dark mode 使用時にコントラストの問題が起きやすいので必ずチェックする。
+  - Arctic Fox 以降はコントラストチェッカーが入っている
+  - Useful tools
+    - [WebAIM](https://webaim.org/)
+    - [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
 
 ### Other
 
 - [DroidKaigi 2021 Time Table](https://droidkaigi.jp/2021/)
+- [Android Study Jams 2021](https://gdg.community.dev/events/details/google-gdg-montreal-presents-android-study-jams-2021-2021-09-29/)
 
 ---
 
