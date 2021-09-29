@@ -27,6 +27,7 @@ list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 
 - [DroidKaigi 2021 Time Table](https://droidkaigi.jp/2021/)
 - [Android Study Jams 2021](https://gdg.community.dev/events/details/google-gdg-montreal-presents-android-study-jams-2021-2021-09-29/)
+- [Kotlin Heroes: Episode 8. Coding Contest, October 1-7, 2021](https://codeforces.com/contests/1570,1571)
 
 ---
 
