@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Android Dev Summit 2021 is back on October 27-28!](https://developer.android.com/events/dev-summit?utm_campaign=Android%20Dev%20Summit%202021)
 - [Android Developers Backstage - Episode 176: Android 12 - S stands for System UI](https://adbackstage.libsyn.com/episode-176-android-12-s-stands-for-system-ui)
   - スプラッシュスクリーン、リップル周りの視覚効果について。
   - 一貫性のあるイフェクトは重要。各アプリが自由にリップルを実装したら何か分からなくなる。
@@ -12,6 +13,7 @@
   - 新しいシリーズは Paging
 list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - library updates
+  - [AndroidX CameraX v1.0.2](https://developer.android.com/jetpack/androidx/releases/camera)
   - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
 - [Color contrast - Accessibility on Android](https://www.youtube.com/watch?v=RHHpljSTDxA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj)
   - 前景と背景のコントラストはちゃんと付けましょう。
@@ -28,6 +30,8 @@ list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - [DroidKaigi 2021 Time Table](https://droidkaigi.jp/2021/)
 - [Android Study Jams 2021](https://gdg.community.dev/events/details/google-gdg-montreal-presents-android-study-jams-2021-2021-09-29/)
 - [Kotlin Heroes: Episode 8. Coding Contest, October 1-7, 2021](https://codeforces.com/contests/1570,1571)
+- [Idiomatic Kotlin: Solving Advent of Code Puzzles, Traversing Trees
+](https://blog.jetbrains.com/kotlin/2021/09/idiomatic-kotlin-traversing-trees/)
 
 ---
 
