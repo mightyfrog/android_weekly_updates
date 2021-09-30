@@ -12,16 +12,43 @@
 - [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc)
   - 新しいシリーズは Paging
 list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
-- library updates
-  - [AndroidX CameraX v1.0.2](https://developer.android.com/jetpack/androidx/releases/camera)
-  - [AndroidX Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
+- [library updates](https://developer.android.com/jetpack/androidx/versions/all-channel#september_29_2021)
+  - [Activity v1.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/activity#1.4.0-beta01)
+  - [Annotation v1.3.0-beta01](https://developer.android.com/jetpack/androidx/releases/annotation#annotation-1.3.0-beta01)
+    - [@Discouraged](https://android-review.googlesource.com/c/platform/frameworks/support/+/1714509)
+  - [AppCompat AppCompat-Resources v1.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/appcompat#1.4.0-beta01)
+    - AndroidX AppCompat Toolbar is now a MenuHost and can manage MenuProviders
+  - [Benchmark v1.1.0-alpha08](https://developer.android.com/jetpack/androidx/releases/benchmark#1.1.0-alpha08)
+  - [Browser v1.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/browser#1.4.0-beta01)
+  - [Camera v1.0.2](https://developer.android.com/jetpack/androidx/releases/camera#1.0.2)
+  - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.0.3
+    - Updated to depend on Kotlin 1.5.30
+  - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.1.0-alpha05
+    - Animation: lambdas in Enter/ExitTransition factories have been moved to the last position in the param list.
+    - UI: Added density: Density and layoutDirection: LayoutDirection to LayoutInfo.
+  - [Core v1.7.0-beta02](https://developer.android.com/jetpack/androidx/releases/core#core-1.7.0-beta02)
+  - [Core-Splashscreen](https://developer.android.com/jetpack/androidx/releases/core#core-splashscreen-1.0.0-alpha02)
+  - [Fragment v1.4.0-alpha10](https://developer.android.com/jetpack/androidx/releases/fragment#1.4.0-alpha10)
+  - [Lifecycle v2.4.0-rc01](https://developer.android.com/jetpack/androidx/releases/lifecycle#2.4.0-rc01)
+    - @OnLifecycleEvent was deprecated. LifecycleEventObserver or DefaultLifecycleObserver should be used instead.
+  - [Navigation v2.4.0-alpha10](https://developer.android.com/jetpack/androidx/releases/navigation#2.4.0-alpha10)
+    - NavController now offers the ability to retrieve a list of all visible NavBackStackEntry instances via the visibleEntries StateFlow
+  - [Paging v3.1.0-alpha04](https://developer.android.com/jetpack/androidx/releases/paging#3.1.0-alpha04)
+  - [Paging Compose v1.0.0-alpha13](https://developer.android.com/jetpack/androidx/releases/paging#1.0.0-alpha13))
+  - [Room v2.4.0-alpha05](https://developer.android.com/jetpack/androidx/releases/room#2.4.0-alpha05)
+    - Added a built-in type converter for UUID
+  - [WorkManager v2.7.0-rc01](https://developer.android.com/jetpack/androidx/releases/work#2.7.0-rc01)
+  - [Dagger/Hilt v2.39](https://github.com/google/dagger/releases)
+    - The compiler flag shareTestComponents now defaults to true.
+    - Hilt compiler flags are now strictly verified.
+  - [Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
 - [Color contrast - Accessibility on Android](https://www.youtube.com/watch?v=RHHpljSTDxA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj)
   - 前景と背景のコントラストはちゃんと付けましょう。
   - 視覚障害のある人だけでなく、明るい日光下で使っているユーザも。
   - 18dp、14dp (bold) 以上は最低 3:1 のコントラスト、それ以外はアイコンも含め 4.5:1 のコントラストにする。
   - dark mode 使用時にコントラストの問題が起きやすいので必ずチェックする。
   - Arctic Fox 以降はコントラストチェッカーが入っている
-  - Useful tools
+  - useful tools
     - [WebAIM](https://webaim.org/)
     - [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
 
