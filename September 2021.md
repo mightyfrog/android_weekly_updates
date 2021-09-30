@@ -48,6 +48,7 @@
     - Hilt compiler flags are now strictly verified.
   - [Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
   - [bundletool v1.8.1](https://github.com/google/bundletool/releases)
+  - [accompanist v0.19.0](https://github.com/google/accompanist/releases/tag/v0.19.0)
 - [Color contrast - Accessibility on Android](https://www.youtube.com/watch?v=RHHpljSTDxA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj)
   - 前景と背景のコントラストはちゃんと付けましょう。
   - 視覚障害のある人だけでなく、明るい日光下で使っているユーザも。
