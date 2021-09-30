@@ -21,6 +21,8 @@ list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
   - [Benchmark v1.1.0-alpha08](https://developer.android.com/jetpack/androidx/releases/benchmark#1.1.0-alpha08)
   - [Browser v1.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/browser#1.4.0-beta01)
   - [Camera v1.0.2](https://developer.android.com/jetpack/androidx/releases/camera#1.0.2)
+    - Fix the issue where the captured photos are blurred in MAXIMIZE_QUALITY mode.
+    - Fixed a issue that captured image with flash is dark on many devices.
   - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.0.3
     - Updated to depend on Kotlin 1.5.30
   - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.1.0-alpha05
