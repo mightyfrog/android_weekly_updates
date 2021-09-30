@@ -4,6 +4,9 @@
 
 ### Google Developers
 
+- [Mindful architecture: Headspace’s refactor to scale](https://android-developers.googleblog.com/2021/09/investing-in-app-excellence-headspaces.html)
+  - [Headspace: Meditation & Sleep](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en&gl=US) のリファクタ事例
+  - 非エンジニア向け記事
 - [Android Dev Summit 2021 is back on October 27-28!](https://developer.android.com/events/dev-summit?utm_campaign=Android%20Dev%20Summit%202021)
 - [Android Developers Backstage - Episode 176: Android 12 - S stands for System UI](https://adbackstage.libsyn.com/episode-176-android-12-s-stands-for-system-ui)
   - スプラッシュスクリーン、リップル周りの視覚効果について。
@@ -11,7 +14,6 @@
   - "At the same time you wanted be cool without being too opinionated."
 - [Introduction to Paging - MAD Skills](https://www.youtube.com/watch?v=WfRe87SfcUc)
   - 新しいシリーズは Paging
-list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
 - [library updates](https://developer.android.com/jetpack/androidx/versions/all-channel#september_29_2021)
   - [Activity v1.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/activity#1.4.0-beta01)
   - [Annotation v1.3.0-beta01](https://developer.android.com/jetpack/androidx/releases/annotation#annotation-1.3.0-beta01)
@@ -25,11 +27,12 @@ list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
     - Fixed a issue that captured image with flash is dark on many devices.
   - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.0.3
     - Updated to depend on Kotlin 1.5.30
+    - [Tweet](https://twitter.com/manuelvicnt/status/1443606229184565256)
   - Compose Animation/Compiler/Foundation/Material/Runtime/UI v1.1.0-alpha05
     - Animation: lambdas in Enter/ExitTransition factories have been moved to the last position in the param list.
     - UI: Added density: Density and layoutDirection: LayoutDirection to LayoutInfo.
   - [Core v1.7.0-beta02](https://developer.android.com/jetpack/androidx/releases/core#core-1.7.0-beta02)
-  - [Core-Splashscreen](https://developer.android.com/jetpack/androidx/releases/core#core-splashscreen-1.0.0-alpha02)
+  - [Core-Splashscreen v1.0.0-alpha02](https://developer.android.com/jetpack/androidx/releases/core#core-splashscreen-1.0.0-alpha02)
   - [Fragment v1.4.0-alpha10](https://developer.android.com/jetpack/androidx/releases/fragment#1.4.0-alpha10)
   - [Lifecycle v2.4.0-rc01](https://developer.android.com/jetpack/androidx/releases/lifecycle#2.4.0-rc01)
     - @OnLifecycleEvent was deprecated. LifecycleEventObserver or DefaultLifecycleObserver should be used instead.
@@ -44,6 +47,7 @@ list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS)
     - The compiler flag shareTestComponents now defaults to true.
     - Hilt compiler flags are now strictly verified.
   - [Constraint Layout v2.1.1](https://developer.android.com/jetpack/androidx/releases/constraintlayout)
+  - [bundletool v1.8.1](https://github.com/google/bundletool/releases)
 - [Color contrast - Accessibility on Android](https://www.youtube.com/watch?v=RHHpljSTDxA&list=PLWz5rJ2EKKc8OENfLdh3zM5T6IRdlVYKj)
   - 前景と背景のコントラストはちゃんと付けましょう。
   - 視覚障害のある人だけでなく、明るい日光下で使っているユーザも。
