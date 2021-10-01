@@ -66,6 +66,7 @@
 - [Kotlin Heroes: Episode 8. Coding Contest, October 1-7, 2021](https://codeforces.com/contests/1570,1571)
 - [Idiomatic Kotlin: Solving Advent of Code Puzzles, Traversing Trees
 ](https://blog.jetbrains.com/kotlin/2021/09/idiomatic-kotlin-traversing-trees/)
+- [okhttp v4.9.2](https://github.com/square/okhttp/blob/master/CHANGELOG.md)
 
 ---
 
