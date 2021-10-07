@@ -1,9 +1,13 @@
-# Android Weekly Updates (Octorber 2021)
+# Android Weekly Updates (October 2021)
 
 ## 10/01 ~
 
 ### Google Developers
 
+- [Pixel Fall Launch](https://pixelevent.withgoogle.com/)
+  - 日本時間 10 月 20 日深夜 2 時
+- [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83)
+  - 先週公表した内容のまとめ的な感じ
 - [Create an advanced widget](https://developer.android.com/guide/topics/appwidgets/advanced)
   - Widget 周りのドキュメント更新 [Tweet](https://twitter.com/thagikura/status/1445664749786583047)
 - [Android 12 is live in AOSP!](https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
