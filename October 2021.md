@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Apply special effects to images with the CameraX Extensions API](https://medium.com/androiddevelopers/apply-special-effects-to-images-with-the-camerax-extensions-api-d1a169b803d3)
 - [Pixel Fall Launch](https://pixelevent.withgoogle.com/)
   - 日本時間 10 月 20 日深夜 2 時
 - [Now in Android #48](https://medium.com/androiddevelopers/now-in-android-48-c499493bb83)
