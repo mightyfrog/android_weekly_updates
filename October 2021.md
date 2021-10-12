@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Paging: Fetching data from network - MAD Skills](https://www.youtube.com/watch?v=C0H54K63Lww)
 - [Room & Kotlin Symbol Processing](https://medium.com/@yigit/room-kotlin-symbol-processing-24808528a28e)
   - [Tweet](https://twitter.com/yigitboyar/status/1447292073778974722)
 - lib updates
@@ -12,7 +13,7 @@
 
 ### r/androiddev
 
-- [What are your favourite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
+- [What are your favorite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
 - [Ads are now able to bypass Google Play to install apps WITHOUT user consent. Digital Turbine DSP seems to be the one enabling it.](https://www.reddit.com/r/androiddev/comments/q4nltn/ads_are_now_able_to_bypass_google_play_to_install/)
   - [こいつ](https://www.digitalturbine.com/operators/#tns1-mw)を使うと Google Play をバイパスしてアプリのインストールができるらし。
   - キャリアのロムでなければ心配なし。
@@ -20,7 +21,9 @@
 
 ### Other
 
+- [Kotlin Symbol Processing is now stable! 🎉](https://twitter.com/kotlin/status/1447918226269220875?t=w4Fuvfz5AnU4PseSvYiQJQ&s=03)
 - [Book Club #1: Talking "Androids: The Team That Built the Android Operating System" — with Chet Haase](https://www.youtube.com/watch?v=qofj1-f5FdA)
+- [38. Compose internals spelunking — with Jake Wharton](https://www.youtube.com/watch?v=VX6nAvRWQg4)
 - [Releases Hub Gradle Plugin](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81)
 
 ## 10/01 ~
