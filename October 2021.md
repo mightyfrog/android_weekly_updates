@@ -13,6 +13,10 @@
 ### r/androiddev
 
 - [What are your favourite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
+- [Ads are now able to bypass Google Play to install apps WITHOUT user consent. Digital Turbine DSP seems to be the one enabling it.](https://www.reddit.com/r/androiddev/comments/q4nltn/ads_are_now_able_to_bypass_google_play_to_install/)
+  - [こいつ](https://www.digitalturbine.com/operators/#tns1-mw)を使うと Google Play をバイパスしてアプリのインストールができるらし。
+  - キャリアのロムでなければ心配なし。
+  - 日本だとこれだけかな？ com.dti.samsung のパッケージのアプリがいればやばい。
 
 ### Other
 
