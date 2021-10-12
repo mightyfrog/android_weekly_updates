@@ -4,7 +4,20 @@
 
 ### Google Developers
 
-- [Gradle Plugin v3.0.0](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81)
+- [Room & Kotlin Symbol Processing](https://medium.com/@yigit/room-kotlin-symbol-processing-24808528a28e)
+  - [Tweet](https://twitter.com/yigitboyar/status/1447292073778974722)
+- lib updates
+  - [Lint Api v30.0.3]()
+  - [Gradle Plugin v7.0.3]()
+
+### r/androiddev
+
+- [What are your favourite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
+
+### Other
+
+- [Book Club #1: Talking "Androids: The Team That Built the Android Operating System" — with Chet Haase](https://www.youtube.com/watch?v=qofj1-f5FdA)
+- [Releases Hub Gradle Plugin](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81)
 
 ## 10/01 ~
 
