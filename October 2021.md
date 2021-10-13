@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Compose for Wear OS now in Developer Preview!](https://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html)
 - [Paging: Fetching data from network - MAD Skills](https://www.youtube.com/watch?v=C0H54K63Lww)
 - [Room & Kotlin Symbol Processing](https://medium.com/@yigit/room-kotlin-symbol-processing-24808528a28e)
   - [Tweet](https://twitter.com/yigitboyar/status/1447292073778974722)
