@@ -4,16 +4,34 @@
 
 ### Google Developers
 
+- [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf)
+- [Happy 5th birthday, Google Assistant!](https://blog.google/products/assistant/happy-5th-birthday-google-assistant/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
+  - もっと前からある気がしてた。
 - [Compose for Wear OS now in Developer Preview!](https://android-developers.googleblog.com/2021/10/compose-for-wear-os-now-in-developer.html)
 - [Paging: Fetching data from network - MAD Skills](https://www.youtube.com/watch?v=C0H54K63Lww)
 - [Room & Kotlin Symbol Processing](https://medium.com/@yigit/room-kotlin-symbol-processing-24808528a28e)
   - [Tweet](https://twitter.com/yigitboyar/status/1447292073778974722)
-- lib updates
+- [lib updates](https://developer.android.com/jetpack/androidx/versions/all-channel#october_13_2021)
+  - [Activity v1.4.0-rc01](https://developer.android.com/jetpack/androidx/releases/activity#1.4.0-rc01)
+  - [Browser v1.4.0-rc01](https://developer.android.com/jetpack/androidx/releases/browser#1.4.0-rc01)
+  - [Camera v1.1.0-alpha10](https://developer.android.com/jetpack/androidx/releases/camera#1.1.0-alpha10), [Camera v1.0.0-alpha30](https://developer.android.com/jetpack/androidx/releases/camera#1.0.0-alpha30)
+    - Added @RequiresApi(21) annotation to all CameraX classes and dropped minSdkVersion from AndroidManifest.xml.
+  - [Collection v1.2.0-beta01](https://developer.android.com/jetpack/androidx/releases/collection#1.2.0-beta01)
+  - Compose v1.0.4
+  - [Core v1.7.0-rc01](https://developer.android.com/jetpack/androidx/releases/core#1.7.0-rc01)
+  - [Media v1.4.3](https://developer.android.com/jetpack/androidx/releases/media#media-1.4.3)
+  - [Paging v3.1.0-beta01](https://developer.android.com/jetpack/androidx/releases/paging#3.1.0-beta01)
+  - [Paging Compose v1.0.0-alpha14](https://developer.android.com/jetpack/androidx/releases/paging#1.0.0-alpha14)
+  - [Room v2.4.0-beta01](https://developer.android.com/jetpack/androidx/releases/room#2.4.0-beta01)
+  - [Sqlite v2.2.0-beta01](https://developer.android.com/jetpack/androidx/releases/sqlite#2.2.0-beta01)
+  - [WorkManager v2.7.0](https://developer.android.com/jetpack/androidx/releases/work#2.7.0)
+    - WorkManager introduces a new WorkRequest.Builder.setExpedited(...) API to help with Foreground Service restrictions in Android 12.
   - [Lint Api v30.0.3]()
   - [Gradle Plugin v7.0.3]()
 
 ### r/androiddev
 
+- [LiveData is superior to StateFlow for UI and ViewModel layer.](https://www.reddit.com/r/androiddev/comments/q46b23/livedata_is_superior_to_stateflow_for_ui_and/)
 - [What are your favorite shortcuts or features in Android Studio?](https://www.reddit.com/r/androiddev/comments/q5thme/what_are_your_favourite_shortcuts_or_features_in/)
 - [Ads are now able to bypass Google Play to install apps WITHOUT user consent. Digital Turbine DSP seems to be the one enabling it.](https://www.reddit.com/r/androiddev/comments/q4nltn/ads_are_now_able_to_bypass_google_play_to_install/)
   - [こいつ](https://www.digitalturbine.com/operators/#tns1-mw)を使うと Google Play をバイパスしてアプリのインストールができるらし。
