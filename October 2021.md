@@ -1,5 +1,11 @@
 # Android Weekly Updates (October 2021)
 
+## 10/17 ~
+
+### Other
+
+- [Gradle Plugin v3.1.0](https://github.com/dipien/releases-hub-gradle-plugin)
+
 ## 10/10 ~
 
 ### Google Developers
