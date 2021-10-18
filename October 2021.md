@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Android Studio Chipmunk Canary 1 available](https://androidstudio.googleblog.com/2021/10/android-studio-chipmunk-canary-1.html)
 - [Using CameraX Exposure Compensation API](https://medium.com/androiddevelopers/using-camerax-exposure-compensation-api-11fd75785bf)
 - [Happy 5th birthday, Google Assistant!](https://blog.google/products/assistant/happy-5th-birthday-google-assistant/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
   - もっと前からある気がしてた。
@@ -40,6 +41,9 @@
 
 ### Other
 
+- [Wake Me Up](https://github.com/romainguy/sample-wake-me-up)
+  - Wake Me Up is a sample app showcased in the Google I/O 2021 Developer Keynote that demonstrates interoperability between Jetpack Compose and the Android UI Toolkit, including fragments, SurfaceView, and more.
+  - [Tweet](https://twitter.com/romainguy/status/1448718190062682112)
 - [Kotlin Symbol Processing is now stable! 🎉](https://twitter.com/kotlin/status/1447918226269220875?t=w4Fuvfz5AnU4PseSvYiQJQ&s=03)
 - [Book Club #1: Talking "Androids: The Team That Built the Android Operating System" — with Chet Haase](https://www.youtube.com/watch?v=qofj1-f5FdA)
 - [38. Compose internals spelunking — with Jake Wharton](https://www.youtube.com/watch?v=VX6nAvRWQg4)
