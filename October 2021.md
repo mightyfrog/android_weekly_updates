@@ -2,9 +2,17 @@
 
 ## 10/17 ~
 
+### Google Developers
+
+- [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA&list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS&index=5)
+- [android developers backstage - Episode 177: Honor every photon](https://adbackstage.libsyn.com/episode-177-honor-every-photon)
+- [Launching Data safety in Play Console: Elevating Privacy and Security for your users](https://android-developers.googleblog.com/2021/10/launching-data-safety-in-play-console.html)
+  - なんか面倒そうなの来た
+
 ### Other
 
 - [Gradle Plugin v3.1.0](https://github.com/dipien/releases-hub-gradle-plugin)
+- [Gradle Enterprise Plugin v3.7.1](https://docs.gradle.com/enterprise/gradle-plugin/#release_history)
 
 ## 10/10 ~
 
