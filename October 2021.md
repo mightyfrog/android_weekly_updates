@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Evolving our business model to address developer needs](https://android-developers.googleblog.com/2021/10/evolving-business-model.html)
 - [Paging: Displaying data and its loading state - MAD Skills](https://www.youtube.com/watch?v=OHH_FPbrjtA&list=PLWz5rJ2EKKc9L-fmWJLhyXrdPi1YKmvqS&index=5)
 - [android developers backstage - Episode 177: Honor every photon](https://adbackstage.libsyn.com/episode-177-honor-every-photon)
 - [Launching Data safety in Play Console: Elevating Privacy and Security for your users](https://android-developers.googleblog.com/2021/10/launching-data-safety-in-play-console.html)
