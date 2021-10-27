@@ -1,5 +1,14 @@
 # Android Weekly Updates (October 2021)
 
+## 10/24 ~
+`
+### Google Developers
+
+- [Android 12 を AOSP で公開！](https://android-developers-jp.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
+- [デベロッパーのニーズに合わせてビジネスモデルを進化させます](https://android-developers-jp.googleblog.com/2021/10/evolving-business-model.html)
+  
+---
+
 ## 10/17 ~
 
 ### Google Developers
@@ -16,6 +25,8 @@
 - [Gradle Enterprise Plugin v3.7.1](https://docs.gradle.com/enterprise/gradle-plugin/#release_history)
 
 ## 10/10 ~
+
+---
 
 ### Google Developers
 
@@ -63,6 +74,8 @@
 - [Book Club #1: Talking "Androids: The Team That Built the Android Operating System" — with Chet Haase](https://www.youtube.com/watch?v=qofj1-f5FdA)
 - [38. Compose internals spelunking — with Jake Wharton](https://www.youtube.com/watch?v=VX6nAvRWQg4)
 - [Releases Hub Gradle Plugin](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81)
+
+---
 
 ## 10/01 ~
 
