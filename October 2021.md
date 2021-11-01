@@ -1,7 +1,7 @@
 # Android Weekly Updates (October 2021)
 
 ## 10/24 ~
-`
+
 ### Google Developers
 
 - [What’s new for Android developers at #AndroidDevSummit’21](https://android-developers.googleblog.com/)
