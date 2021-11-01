@@ -4,8 +4,38 @@
 `
 ### Google Developers
 
+- [What’s new for Android developers at #AndroidDevSummit’21](https://android-developers.googleblog.com/)
 - [Android 12 を AOSP で公開！](https://android-developers-jp.googleblog.com/2021/10/android-12-is-live-in-aosp.html)
 - [デベロッパーのニーズに合わせてビジネスモデルを進化させます](https://android-developers-jp.googleblog.com/2021/10/evolving-business-model.html)
+- [library update](https://developer.android.com/jetpack/androidx/versions/all-channel#october_27_2021)
+  - Activity Version v1.4.0
+    - AndroidX ComponentActivity now implements the MenuHost interface.
+  - Annotation Version v1.3.0-rc01
+  - AppCompat AppCompat-Resources Version v1.4.0-rc01
+  - Compose v1.1.0-beta01
+  - Core Version v1.7.0
+  - Emoji2 Version v1.0.0-rc01
+  - Fragment Version v1.4.0-beta01
+  - Lifecycle Version v2.4.0
+    - v2.3.0 から結構な数の重要な変更あり。
+  - Media3 Version v1.0.0-alpha01
+    - Media3 is the new home for media support libraries, including ExoPlayer.
+    - 落ち着いたら個人アプリの ExoPlayer 入れ替えようかな。
+  - Navigation Version 2.4.0-beta01
+    - You can now use by navGraphViewModel with a route as an alternative to using an ID so as to better support using the Navigation Kotlin DSL with Fragments.
+  - Preference Version 1.2.0-alpha01
+    - Added PreferenceHeaderFragmentCompat for two-pane preference (I9a2d8)
+Behavior Changes
+    - Preference callbacks for OnPreferenceDisplayDialogCallback, OnPreferenceStartScreenCallback, and OnPreferenceStartFragmentCallback can now be implemented in a non-Activity Context. getContext() is checked to see if it implements these callbacks before checking getActivity(). If getContext() returns an Activity (the common case), then there is no behavior change.
+    - PreferenceFragmentCompat’s call to onPreferenceTreeClick now looks for implementations of the OnPreferenceStartFragmentCallback interface on parent fragments before considering the Activity’s implementation. 
+  - ProfileInstaller Version 1.1.0-beta01
+  - ResourceInspection Version 1.0.0-rc01
+  - Wear Compose Version 1.0.0-alpha09
+  - Wear Tiles Version 1.0.0-rc01
+  - Wear Watchface Version 1.0.0-beta01
+  - Window Version 1.0.0-beta03
+  - [Dagger/Hilt v2.40](https://github.com/google/dagger/releases)
+  - [Google Maps v18.0.0](https://developers.google.com/android/guides/releases)
   
 ---
 
