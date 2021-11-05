@@ -9,6 +9,8 @@
 - [Announcing Kotlin support for protocol buffers](https://developers.googleblog.com/2021/11/announcing-kotlin-support-for-protocol.html)
   - やっと来た感じ。
 - lib update
+  - [Paging v3.1.0-rc01](https://developer.android.com/jetpack/androidx/releases/paging#3.1.0-rc01)
+  - [ExoPlayer v2.16.0](https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md)
   - [AndroidX Annotation v1.3.0](https://developer.android.com/jetpack/androidx/releases/annotation)
   - [Bundletools v1.8.2](https://github.com/google/bundletool/releases)
   - [gson v2.8.9](https://github.com/google/gson/blob/master/CHANGELOG.md)
