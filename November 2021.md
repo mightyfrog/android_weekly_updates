@@ -1,5 +1,12 @@
 # Android Weekly Updates (November 2021)
 
+## 11/07 ~
+
+### Google Developers
+
+- [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc)
+
+
 ## 11/01 ~
 
 ### Google Developers
