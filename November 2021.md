@@ -1,18 +1,15 @@
 # Android Weekly Updates (November 2021)
 
-## 11/07 ~
-
-### Google Developers
-
-- [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc)
-
-
 ## 11/01 ~
 
 ### Google Developers
 
 - [Compose for Wear OS がデベロッパー プレビューに](https://android-developers-jp.googleblog.com/2021/11/compose-for-wear-os-now-in-developer.html)
 - [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b)
+- [Now in Android: 50 - Android Developer Summit 2021 recap (part 1)](https://www.youtube.com/watch?v=0puqoQ-9kB4)
+- [Paging: Getting fancy with transformations, separators, headers, footers and search - MAD Skills](https://www.youtube.com/watch?v=ZARz0pjm5YM)
+- [Jetpack Compose basics code-along](https://www.youtube.com/watch?v=k3jvNqj4m08)
+- [Jetpack Compose migration code-along](https://www.youtube.com/watch?v=wg4NHmxJ78g)
 - [Announcing Kotlin support for protocol buffers](https://developers.googleblog.com/2021/11/announcing-kotlin-support-for-protocol.html)
   - やっと来た感じ。
 - lib update
