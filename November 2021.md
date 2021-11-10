@@ -1,5 +1,30 @@
 # Android Weekly Updates (November 2021)
 
+## 11/07 ~
+
+### Google Developers
+
+- [Android Developer Story: WPS Office - Building continuity with Android foldables](https://www.youtube.com/watch?v=yq34wQyEDEk)
+  - いやいやラップトップあるでしょ。
+- [Android Developers has reached 1M subscribers!](https://www.youtube.com/watch?v=-fJ6poHQrjM)
+- [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc)
+  - Consistent & Intuitive
+    - Make app quality a cross-organizational focus
+    - Organize teams around features and/or user journey stages
+    - Use the same devices your customers use
+
+### r/androiddev
+
+- [DiscussionWhat libraries would you use if you were starting a new project?](https://www.reddit.com/r/androiddev/comments/qq56y1/what_libraries_would_you_use_if_you_were_starting/)
+  - みんな同じなんだな。
+- [Open SourceProud to present before you MyTube, a YouTube clone built with Kotlin and Youtube data API, using the MVVM app architecture.](https://www.reddit.com/r/androiddev/comments/qoogh2/proud_to_present_before_you_mytube_a_youtube/)
+  - コードは見てないけど
+
+### other
+
+- [Gradle v7.3](https://gradle.org/releases/)
+- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+
 ## 11/01 ~
 
 ### Google Developers
