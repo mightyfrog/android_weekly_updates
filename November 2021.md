@@ -4,14 +4,20 @@
 
 ### Google Developers
 
+- [Google Play からの最新情報と 10 月末のポリシー更新内容 リンク集](https://developersonair.withgoogle.com/events/policy2021-3/resources)
+- [Paging: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=8i6vrlbIVCc)
+- [#AndroidDevSummit ‘21: Top 3 things in Jetpack Compose & Material You!](https://www.youtube.com/watch?v=4R8-ggukUls)
+- [Now in Android: 51 - Android Developer Summit 2021 recap (part 2)](https://www.youtube.com/watch?v=cR3e_dhy-sQ)
 - [Android Developer Story: WPS Office - Building continuity with Android foldables](https://www.youtube.com/watch?v=yq34wQyEDEk)
-  - いやいやラップトップあるでしょ。
+  - いやいやラップトップがあるでしょ。
 - [Android Developers has reached 1M subscribers!](https://www.youtube.com/watch?v=-fJ6poHQrjM)
 - [Android App Excellence - What do 5 star apps and restaurants have in common?](https://www.youtube.com/watch?v=aM0-OqsGgjc)
   - Consistent & Intuitive
     - Make app quality a cross-organizational focus
     - Organize teams around features and/or user journey stages
     - Use the same devices your customers use
+- lib update
+  - [Dagger/Hilt v2.40.1](https://github.com/google/dagger/releases)
 
 ### r/androiddev
 
@@ -22,6 +28,11 @@
 
 ### other
 
+- [The state of managing state (with Compose)
+](https://code.cash.app/the-state-of-managing-state-with-compose)
+  - Square の新しい Jetpack Compose ライブラリ - Molecule
+  - [Tweet](https://twitter.com/JakeWharton/status/1458850089850617861)
+- [Robolectric v4.7](https://github.com/robolectric/robolectric/releases)
 - [Gradle v7.3](https://gradle.org/releases/)
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 
