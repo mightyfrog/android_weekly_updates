@@ -5,12 +5,15 @@
 ### Google Developers
 
 - [Android Dev Summit 2021 での Wear OS の注目点](https://android-developers-jp.googleblog.com/2021/11/wearos-at-ads-21.html)
+- [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f)
 
 ### Other
 
 - [Kotlin/Kotlin Gradle Plugin v1.6.0](https://github.com/JetBrains/kotlin)
 - [kotlin-math](https://github.com/romainguy/kotlin-math)
   - Set of Kotlin APIs to make graphics math easier to write. These APIs are mostly modeled after GLSL (OpenGL Shading Language) to make porting code to and from shaders easier.
+- [Pathway](https://github.com/romainguy/pathway)
+  - Pathway is an Android library that provides new functionalities around the graphics Path API.
 
 ## 11/07 ~
 
