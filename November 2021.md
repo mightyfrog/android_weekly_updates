@@ -1,5 +1,17 @@
 # Android Weekly Updates (November 2021)
 
+## 11/14 ~
+
+### Google Developers
+
+- [Android Dev Summit 2021 での Wear OS の注目点](https://android-developers-jp.googleblog.com/2021/11/wearos-at-ads-21.html)
+
+### Other
+
+- [Kotlin/Kotlin Gradle Plugin v1.6.0](https://github.com/JetBrains/kotlin)
+- [kotlin-math](https://github.com/romainguy/kotlin-math)
+  - Set of Kotlin APIs to make graphics math easier to write. These APIs are mostly modeled after GLSL (OpenGL Shading Language) to make porting code to and from shaders easier.
+
 ## 11/07 ~
 
 ### Google Developers
