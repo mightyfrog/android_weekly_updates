@@ -4,8 +4,14 @@
 
 ### Google Developers
 
+- [A Story of Android App Excellence: Duolingo revamped their app and improved developer velocity](https://www.youtube.com/watch?v=8x7Lu3_wK-o)
+- [AndroidDevSummit ‘21: Top 3 things in developing for large screens](https://www.youtube.com/watch?v=50mqKT9n15U)
+  - 12L は面倒くさそう。
+- [Improving App Startup: Lessons from the Facebook App](https://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html)
 - [Android Dev Summit 2021 での Wear OS の注目点](https://android-developers-jp.googleblog.com/2021/11/wearos-at-ads-21.html)
 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f)
+- lib update
+  - [Protobuf Plugin for Gradle v0.8.17](https://github.com/google/protobuf-gradle-plugin/releases)
 
 ### Other
 
