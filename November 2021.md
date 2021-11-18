@@ -10,11 +10,13 @@
 - [Improving App Startup: Lessons from the Facebook App](https://android-developers.googleblog.com/2021/11/improving-app-startup-facebook-app.html)
 - [Android Dev Summit 2021 での Wear OS の注目点](https://android-developers-jp.googleblog.com/2021/11/wearos-at-ads-21.html)
 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f)
-- lib update
+- [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#november_17_2021)
+  - [Paging v3.1.0](https://developer.android.com/jetpack/androidx/releases/paging#3.1.0)
   - [Protobuf Plugin for Gradle v0.8.17](https://github.com/google/protobuf-gradle-plugin/releases)
 
 ### Other
 
+- [Robolectric v4.7.1](https://github.com/robolectric/robolectric/releases)
 - [Kotlin/Kotlin Gradle Plugin v1.6.0](https://github.com/JetBrains/kotlin)
 - [kotlin-math](https://github.com/romainguy/kotlin-math)
   - Set of Kotlin APIs to make graphics math easier to write. These APIs are mostly modeled after GLSL (OpenGL Shading Language) to make porting code to and from shaders easier.
