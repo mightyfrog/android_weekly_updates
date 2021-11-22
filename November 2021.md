@@ -11,7 +11,35 @@
 - [Android Dev Summit 2021 での Wear OS の注目点](https://android-developers-jp.googleblog.com/2021/11/wearos-at-ads-21.html)
 - [Support Modern Emoji](https://medium.com/androiddevelopers/support-modern-emoji-99f6dea8e57f)
 - [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#november_17_2021)
-  - [Paging v3.1.0](https://developer.android.com/jetpack/androidx/releases/paging#3.1.0)
+  - Annotation-Experimental Version 1.2.0-beta01
+  - AppCompat AppCompat-Resources Version 1.4.0
+  - Benchmark Version 1.1.0-alpha12
+  - Biometric Version 1.2.0-alpha04
+  - Camera Version 1.1.0-alpha11
+  - Camera Version 1.0.0-alpha31
+  - Collection Version 1.2.0-rc01
+  - Compose Animation Version 1.1.0-beta03
+  - Compose Compiler Version 1.1.0-beta03
+  - Compose Foundation Version 1.1.0-beta03
+  - Compose Material Version 1.1.0-beta03
+  - Compose Runtime Version 1.1.0-beta03
+  - Compose UI Version 1.1.0-beta03
+  - CoordinatorLayout Version 1.2.0-beta01
+  - Emoji2 Version 1.0.0
+  - Fragment Version 1.4.0
+  - Games-Activity Version 1.1.0-beta01
+  - Hilt-Navigation-Compose Version 1.0.0-beta01
+  - Leanback Leanback-Preference Version 1.2.0-alpha02
+  - Leanback-Grid Version 1.0.0-alpha01
+  - Leanback-Paging Version 1.1.0-alpha09
+  - Paging Version 3.1.0
+  - Preference Version 1.2.0-beta01
+  - ProfileInstaller Version 1.1.0-beta03
+  - Room Version 2.4.0-beta02
+  - Tracing Version 1.1.0-alpha02
+  - Wear Compose Version 1.0.0-alpha11
+  - Window Version 1.0.0-beta04
+  - WorkManager Version 2.7.1
   - [Protobuf Plugin for Gradle v0.8.17](https://github.com/google/protobuf-gradle-plugin/releases)
 
 ### Other
