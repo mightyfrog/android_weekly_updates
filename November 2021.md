@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [Gradle and Build APIs: How to write a plugin - MAD Skills](https://www.youtube.com/watch?v=LPzBVtwGxlo)
 - [AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo)
   - #1. Jetpack
   - #2. Kolin
@@ -18,7 +19,7 @@
 ### Other
 
 - [OkHttp v4.9.3](https://github.com/square/okhttp/blob/master/CHANGELOG.md)
-- 
+- [Android Panel Discussion with Zarah Dominguez, Kaushik Gopal, Chet Haase, and Emily Kager](https://www.youtube.com/watch?v=zzgFrNopu40)
 
 ## 11/14 ~
 
