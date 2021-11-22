@@ -1,5 +1,25 @@
 # Android Weekly Updates (November 2021)
 
+## 11/21 ~
+
+### Google Developers
+
+- [AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo)
+  - #1. Jetpack
+  - #2. Kolin
+  - #3. Android Studio
+- 
+
+### r/androiddev
+
+- [Compose-based App to showcase my artworks and to set them as Live Wallpaper.](https://www.reddit.com/r/androiddev/comments/qywwgg/composebased_app_to_showcase_my_artworks_and_to/)
+  - これは面白い。
+
+### Other
+
+- [OkHttp v4.9.3](https://github.com/square/okhttp/blob/master/CHANGELOG.md)
+- 
+
 ## 11/14 ~
 
 ### Google Developers
