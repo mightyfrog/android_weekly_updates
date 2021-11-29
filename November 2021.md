@@ -4,20 +4,26 @@
 
 ### Google Developers
 
+- [Jetpack Compose が Material You に対応](https://android-developers-jp.googleblog.com/2021/11/ads21-compose-material-you.html?m=1&s=03)
+- [Gradle and AGP build APIs: How to write a plugin](https://medium.com/androiddevelopers/gradle-and-agp-build-apis-how-to-write-a-plugin-1695b590e4ec)
+- [Convert YUV To RGB for CameraX ImageAnalysis](https://medium.com/androiddevelopers/convert-yuv-to-rgb-for-camerax-imageanalysis-6c627f3a0292)
 - [Gradle and Build APIs: How to write a plugin - MAD Skills](https://www.youtube.com/watch?v=LPzBVtwGxlo)
 - [AndroidDevSummit ‘21: Top 3 things in Modern Android Development](https://www.youtube.com/watch?v=ENYorR3u6Eo)
-  - #1. Jetpack
-  - #2. Kolin
-  - #3. Android Studio
-- 
+- lib update
+  - [Dagger/Hilt 2.40.2](https://github.com/google/dagger/releases)
 
 ### r/androiddev
 
 - [Compose-based App to showcase my artworks and to set them as Live Wallpaper.](https://www.reddit.com/r/androiddev/comments/qywwgg/composebased_app_to_showcase_my_artworks_and_to/)
   - これは面白い。
+- [Does anyone else hate recyclerviews and how android handles lists.](https://www.reddit.com/r/androiddev/comments/qy2vg2/does_anyone_else_hate_recyclerviews_and_how/)
 
 ### Other
 
+- [45. Apex, or how to create a UI framework — with Chet Haase and Romain Guy](https://www.youtube.com/watch?v=KF_s62vEPGY)
+- [Incremental compilation speed regression in 1.6.0 for Android projects](https://youtrack.jetbrains.com/issue/KT-49910)
+  - 特に感じなかったけど
+- [Here is how extension function with 2 receivers may be created in #Kotlin 1.6.0 while Context receivers are being prototyped.](https://twitter.com/qwert2603/status/1464576621994725387)
 - [OkHttp v4.9.3](https://github.com/square/okhttp/blob/master/CHANGELOG.md)
 - [Android Panel Discussion with Zarah Dominguez, Kaushik Gopal, Chet Haase, and Emily Kager](https://www.youtube.com/watch?v=zzgFrNopu40)
 
