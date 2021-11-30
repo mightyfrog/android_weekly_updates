@@ -5,6 +5,8 @@
 ### Google Developers
 
 - [Conveying state for Accessibility - Accessibility on Android](https://www.youtube.com/watch?v=JvWM2PjLJls)
+- lib update
+  - [Dagger/Hilt 2.40.3](https://github.com/google/dagger/releases)
 
 ### r/androiddev
 
