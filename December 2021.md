@@ -1,5 +1,14 @@
 # Android Weekly Updates (December) 2021)
 
+## 12/06~
+
+### Google Developers
+
+- lib update
+  - [Dagger/Hilt 2.40.5](https://github.com/google/dagger/releases)
+
+### Other
+
 ## 12/01~
 
 ### Google Developers
