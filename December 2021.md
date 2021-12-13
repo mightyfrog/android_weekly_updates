@@ -4,10 +4,42 @@
 
 ### Google Developers
 
+- [Jetpack Watch Face library, Datastream is GA, Bazel Con recap, and more dev news!](https://www.youtube.com/watch?v=noK1Hnc4LrA)
+- [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU)
+- [Fonts Knowledge](https://fonts.google.com/knowledge)
+- [Accessibility scanner - Accessibility on Android](https://www.youtube.com/watch?v=i1gMzQv0hWU)
+- [Beta 1 Update for 12L feature drop!](https://android-developers.googleblog.com/2021/12/beta-1-update-for-12l-feature-drop.html)
+  - you can now [enroll here](https://www.google.com/android/beta) to get 12L Beta 1 on supported Pixel devices
+  - although you won’t see the large screen features on smaller screens, we welcome you to try out the latest improvements in this feature drop
+    - やめとこ
 - lib update
+  - [Google Play Services](https://developers.google.com/android/guides/releases)
+    - Google Analytics v18.0.0
+    - Google Awareness v19.0.0
+    - Google Cast v21.0.0
+    - Google Fit v21.0.0
+    - Google Instant Apps v18.0.0
+    - Google Location v19.0.0
+    - Google Nearby v18.0.1
+    - Google Maps v18.0.1
+    - Google Sign In v18.0.0
+    - Google Play Services Base v18.0.0
+    - SafetyNet v18.0.0 released
+    - Google Play Games services v22.0.0
+    - Google Account Login v20.0.0
+  - [Firebase Crashlytics v18.2.6](https://firebase.google.com/support/release-notes/android#crashlytics_v18-2-6)
   - [Dagger/Hilt 2.40.5](https://github.com/google/dagger/releases)
 
+### r/androiddev
+
+- [911 につながらない件の回答](https://www.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/hnrvsr1/)
+  - [Pixel prevented me from calling 911](https://www.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/)
+  - どうやってテストすればいいんだろ？
+
 ### Other
+
+- [Moshi v1.13.0](https://github.com/square/moshi/blob/master/CHANGELOG.md#version-1130)
+- [Android gradle plugin v7.0.4](https://developer.android.com/studio/releases/gradle-plugin)
 
 ## 12/01~
 
