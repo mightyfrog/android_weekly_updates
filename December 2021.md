@@ -1,5 +1,23 @@
 # Android Weekly Updates (December) 2021)
 
+## 12/13
+
+### Google Developers
+
+- [Launching Notes from Google Play | A year of evolution](https://g.co/play/notes)
+- lib update
+  - [Firebase Analytics v20.0.1](https://firebase.google.com/support/release-notes/android#analytics_v20-0-1)
+    - このアプデで個人アプリで firestore が落ちるようになった。
+
+### r/androiddev
+
+- [If I were to start my Android career in 2022, here is how I would do it](https://www.reddit.com/r/androiddev/comments/rd7r8x/if_i_were_to_start_my_android_career_in_2022_here/)
+
+### Other
+
+- [Kotlin v1.6.10](https://github.com/JetBrains/kotlin)
+- [Kotlin Gradle Plugin v1.6.10](https://github.com/JetBrains/kotlin)
+
 ## 12/06~
 
 ### Google Developers
