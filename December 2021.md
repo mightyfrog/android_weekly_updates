@@ -4,8 +4,55 @@
 
 ### Google Developers
 
+- [Easy Coroutines in Android: viewModelScope](https://medium.com/androiddevelopers/easy-coroutines-in-android-viewmodelscope-25bffb605471)
+- [UI events](https://developer.android.com/jetpack/guide/ui-layer/events)
+  - [Tweet](https://twitter.com/ppvi/status/1471046905711022081)
+- [Announcing Jetpack Glance Alpha for app widgets](https://android-developers.googleblog.com/2021/12/announcing-jetpack-glance-alpha-for-app.html)
+  - 触ろうと思って忘れてた
 - [Launching Notes from Google Play | A year of evolution](https://g.co/play/notes)
-- lib update
+- [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#december_15_2021)
+  - Annotation-Experimental Version 1.2.0
+  - Annotation Version 1.4.0-alpha01
+  - Benchmark Version 1.1.0-alpha13
+  - Camera Version 1.1.0-alpha12
+  - Camera Version 1.0.0-alpha32
+  - Car App Version 1.1.0
+  - Car App Version 1.2.0-alpha02
+  - Compose Animation Version 1.1.0-rc01
+  - Compose Compiler Version 1.1.0-rc01
+  - Compose Foundation Version 1.1.0-rc01
+  - Compose Material Version 1.1.0-rc01
+  - Compose Runtime Version 1.1.0-rc01
+  - Compose UI Version 1.1.0-rc01
+  - CoordinatorLayout Version 1.2.0-rc01
+  - Core-Role Version 1.1.0-rc01
+  - Core Core-Ktx Version 1.8.0-alpha02
+  - Core-Performance Core-RemoteViews Version 1.0.0-alpha01
+  - Draganddrop Version 1.0.0-alpha02
+    - DropHelper, the first member of the draganddrop library, is a utility class that simplifies implementation of drag and drop capabilities.
+  - Emoji2 Version 1.0.1
+  - Emoji2 Version 1.1.0-alpha01
+  - Games-Activity Version 1.1.0-beta02
+  - Games-Controller Version 1.1.0-alpha01
+  - Games-Frame-Pacing Version 1.10.0-alpha01
+  - Games-Performance-Tuner Version 1.5.0-beta02
+  - Games-Text-Input Version 1.1.0-beta01
+  - Glance Version 1.0.0-alpha01
+  - Hilt-Navigation-Compose Version 1.0.0-rc01
+  - Localbroadcastmanager Version 1.1.0-rc01
+  - Mediarouter Version 1.3.0-alpha01
+  - Navigation Version 2.4.0-rc01
+  - Preference Version 1.2.0-rc01
+  - ProfileInstaller Version 1.1.0-rc01
+  - Room Version 2.4.0
+    - Important changes since 2.3.0 あり
+  - SlidingPaneLayout Version 1.2.0-rc01
+  - Sqlite Version 2.2.0
+  - Wear-Phone-Interactions Version 1.1.0-alpha02
+  - Wear-Phone-Interactions Version 1.0.1
+  - Wear Compose Version 1.0.0-alpha13
+  - Wear Watchface Version 1.1.0-alpha01
+  - Window Version 1.0.0-rc01
   - [Firebase Analytics v20.0.1](https://firebase.google.com/support/release-notes/android#analytics_v20-0-1)
     - このアプデで個人アプリで firestore が落ちるようになった。
 
@@ -22,6 +69,7 @@
 
 ### Google Developers
 
+- [Rebuilding our guide to app architecture](https://android-developers.googleblog.com/2021/12/rebuilding-our-guide-to-app-architecture.html)
 - [Jetpack Watch Face library, Datastream is GA, Bazel Con recap, and more dev news!](https://www.youtube.com/watch?v=noK1Hnc4LrA)
 - [Gradle and AGP Build APIs: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=2FOzPTJprUU)
 - [Fonts Knowledge](https://fonts.google.com/knowledge)
