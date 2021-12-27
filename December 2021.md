@@ -1,6 +1,25 @@
 # Android Weekly Updates (December) 2021)
 
-## 12/13
+## 12/20 ~
+
+### Google Developers
+
+- [Mobile Development for Matter: Device Sharing in Android Apps](https://www.youtube.com/watch?v=ayEYlJUfFlI)
+  - これもう少し調べたい
+- [Accessibility test framework and Espresso - Accessibility on Android](https://www.youtube.com/watch?v=DLN2s16HwcE)
+  - [Codelab](https://developer.android.com/codelabs/a11y-testing-espresso#0)
+- lib update
+  - [Google Play Services Base v18.0.1](https://developers.google.com/android/guides/releases)
+
+### r/androiddev
+
+- [How come VLC is allowed to use MANAGE_EXTERNAL_STORAGE permission?](https://www.reddit.com/r/androiddev/comments/rmgdis/how_come_vlc_is_allowed_to_use_manage_external/)
+
+### Other
+
+- [Gradle v7.3.3](https://gradle.org/releases/)
+
+## 12/13 ~
 
 ### Google Developers
 
@@ -55,6 +74,7 @@
   - Window Version 1.0.0-rc01
   - [Firebase Analytics v20.0.1](https://firebase.google.com/support/release-notes/android#analytics_v20-0-1)
     - このアプデで個人アプリで firestore が落ちるようになった。
+  - [Firebase Android BoM v29.0.3](https://firebase.google.com/support/release-notes/android)
 
 ### r/androiddev
 
