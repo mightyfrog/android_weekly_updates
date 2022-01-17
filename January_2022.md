@@ -38,5 +38,5 @@
 ### Other
 
 - [The Ultimate Guide for Android Developers](https://androidtopics.dipien.com/the-ultimate-guide-for-android-developers-b11268ed21f7)
-- [Gradle Enterprise Gradle Plugin v3.8.1 ](https://docs.gradle.com/enterprise/gradle-plugin/#release_history)
+- [Gradle Enterprise Gradle Plugin v3.8.1](https://docs.gradle.com/enterprise/gradle-plugin/#release_history)
 - [LeakCanary v2.8.1](https://square.github.io/leakcanary/changelog/)
