@@ -4,8 +4,27 @@
 
 ### Google Developers
 
-- [Google Play Serices updates](https://developers.google.com/android/guides/releases)
-  - The latest updates to several libraries include using the latest versions of play-services-base and play-services-tasks (v18.0.1) to fix the issue described in the December 09, 2021 release.
+- [On Device Watch Next - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=QFMIP5GOo70)
+- [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#january_12_2022)
+  - AppCompat AppCompat-Resources Version 1.4.1
+  - Benchmark Version 1.1.0-beta01
+  - Compose Animation Version 1.2.0-alpha01
+  - Compose Compiler Version 1.2.0-alpha01
+  - Compose Foundation Version 1.2.0-alpha01
+  - Compose Material Version 1.2.0-alpha01
+  - Compose Material 3 Version 1.0.0-alpha03
+  - Compose Runtime Version 1.2.0-alpha01
+  - Compose UI Version 1.2.0-alpha01
+  - CoordinatorLayout Version 1.2.0
+  - Core-Splashscreen Version 1.0.0-beta01
+  - Localbroadcastmanager Version 1.1.0
+  - ProfileInstaller Version 1.2.0-alpha01
+  - Room Version 2.4.1
+  - Wear Compose Version 1.0.0-alpha14
+  - Wear Watchface Version 1.1.0-alpha02
+  - WorkManager Version 2.8.0-alpha01
+  - [Google Play Services updates](https://developers.google.com/android/guides/releases)
+    - The latest updates to several libraries include using the latest versions of play-services-base and play-services-tasks (v18.0.1) to fix the issue described in the December 09, 2021 release.
 
 ### r/androiddev
 
@@ -18,4 +37,6 @@
 
 ### Other
 
+- [The Ultimate Guide for Android Developers](https://androidtopics.dipien.com/the-ultimate-guide-for-android-developers-b11268ed21f7)
+- [Gradle Enterprise Gradle Plugin v3.8.1 ](https://docs.gradle.com/enterprise/gradle-plugin/#release_history)
 - [LeakCanary v2.8.1](https://square.github.io/leakcanary/changelog/)
