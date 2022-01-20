@@ -1,5 +1,11 @@
 # Android Weekly Updates (January 2022)
 
+## 01/16 ~
+
+### Google Developers
+
+- [Jetnews for every screen](https://medium.com/androiddevelopers/jetnews-for-every-screen-4d8e7927752)
+
 ## 01/01 ~
 
 ### Google Developers
