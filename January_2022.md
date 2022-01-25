@@ -1,9 +1,17 @@
 # Android Weekly Updates (January 2022)
 
+## 01/23 ~
+
+### Google Developers
+
+- [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk)
+
 ## 01/16 ~
 
 ### Google Developers
 
+- [DataStore - MAD Skills](youtube.com/watch?v=9ws-cJzlJkU)
+- [Introduction to DataStore - MAD Skills](https://www.youtube.com/watch?v=mdQjuZbLv9Y)
 - [Google Play Games beta launches on PC in Korea, Taiwan, and Hong Kong](https://android-developers.googleblog.com/2022/01/googleplaygames.html)
 - [Material Components for Android](https://github.com/material-components/material-components-android)
 - [Baseline Profiles](https://developer.android.com/studio/profile/baselineprofiles)
