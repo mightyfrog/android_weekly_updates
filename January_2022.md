@@ -1,10 +1,12 @@
 # Android Weekly Updates (January 2022)
 
-## 01/23 ~
+## 01/22 ~
 
 ### Google Developers
 
+- [Android Studio Bumblebee (2021.1.1) Stable](https://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html)
 - [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk)
+- [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I)
 
 ## 01/16 ~
 
