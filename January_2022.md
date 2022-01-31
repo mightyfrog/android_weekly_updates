@@ -7,6 +7,70 @@
 - [Android Studio Bumblebee (2021.1.1) Stable](https://android-developers.googleblog.com/2022/01/android-studio-bumblebee-202111-stable.html)
 - [Preferences DataStore - MAD Skills](https://www.youtube.com/watch?v=kp53qL_O5gk)
 - [TalkBack - Accessibility on Android](https://www.youtube.com/watch?v=_1yRVwhEv5I)
+- [Announcing Glance: Tiles for Wear OS made simple](https://android-developers.googleblog.com/2022/01/announcing-glance-tiles-for-wear-os.html)
+- [What's new in Android Studio Bumblebee](https://www.youtube.com/watch?v=rIt13HjCRiI)
+- [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#january_26_2022)
+  - Activity Version 1.5.0-alpha01
+    - The no parameter constructor for ActivityResultContracts.CreateDocument has been deprecated and replaced with a new constructor that takes a concrete mime type (e.g., "image/png") as is required by Intent.ACTION_CREATE_DOCUMENT
+  - Benchmark Version 1.1.0-beta02
+  - Camera Version 1.1.0-beta01
+    - From 1.1.0-beta01, all CameraX libraries will align the same version number. This will help developers track versions much easier and reduce the complexity of large version compatibility matrix.
+  - Car App Version 1.2.0-beta02
+  - Compose Animation Version 1.1.0-rc03
+  - Compose Compiler Version 1.1.0-rc03
+  - Compose Foundation Version 1.1.0-rc03
+  - Compose Material Version 1.1.0-rc03
+    - Note that, with respect to Compose 1.0, Material components will expand their layout space to meet Material accessibility guidelines touch target size.
+  - Compose Runtime Version 1.1.0-rc03
+  - Compose UI Version 1.1.0-rc03
+  - Compose Animation Version 1.2.0-alpha02
+    - Use AnimatedImageVector.animatedVectorResource instead of animatedVectorResource to load an <animated-vector> resource file.
+  - Compose Compiler Version 1.2.0-alpha02
+  - Compose Foundation Version 1.2.0-alpha02
+  - Compose Material Version 1.2.0-alpha02
+    - Add support for action chip
+  - Compose Material 3 Version 1.0.0-alpha04
+  - Compose Runtime Version 1.2.0-alpha02
+  - Compose UI Version 1.2.0-alpha02
+  - Core Core-Ktx Version 1.8.0-alpha03
+    - [API changes](https://developer.android.com/jetpack/androidx/releases/core#1.8.0-alpha03)
+  - Core-RemoteViews Version 1.0.0-alpha02
+  - Drag And Drop Version 1.0.0-alpha03
+  - Emoji2 Version 1.1.0-beta01
+  - Fragment Version 1.4.1
+  - Fragment Version 1.5.0-alpha01
+  - Games-Activity Version 1.1.0-beta03
+  - Games-Controller Version 1.1.0-beta01
+  - Games-Frame-Pacing Version 1.10.0-beta01
+  - Games-Performance-Tuner Version 1.5.0-rc01
+  - Games-Text-Input Version 1.1.0-rc01
+  - Glance Version 1.0.0-alpha02
+  - Hilt-Navigation-Compose Version 1.0.0
+    - The androidx.hilt:hilt-navigation-compose artifact provides APIs that allow users to get a @HiltViewModel annotated ViewModel from a Navigation back stack entry within a Compose application using :navigation-compose.The function hiltViewModel() returns an existing ViewModel or creates a new one scoped to the current navigation graph present on the NavController back stack. The function can optionally take a NavBackStackEntry to scope the ViewModel to a parent back stack entry.
+  - Lifecycle Version 2.5.0-alpha01
+    - [ViewModel CreationExtras](https://developer.android.com/jetpack/androidx/releases/lifecycle#2.5.0-alpha01)
+  - Media Version 1.5.0-rc01
+  - Mediarouter Version 1.2.6
+  - Navigation Version 2.5.0-alpha01
+    - NavBackStackEntry now integrates with ViewModel CreationExtras, introduced as part of Lifecycle 2.5.0-alpha01.
+  - Navigation Version 2.4.0
+    - [Important changes since 2.3.0](https://developer.android.com/jetpack/androidx/releases/navigation#2.4.0)
+  - Preference Version 1.2.0
+    - [Important changes since 1.1.0](https://developer.android.com/jetpack/androidx/releases/preference#1.2.0)
+  - ProfileInstaller Version 1.2.0-alpha02
+  - ResourceInspection Version 1.0.1
+  - SavedState Version 1.2.0-alpha01
+  - SlidingPaneLayout Version 1.2.0
+  - Wear Compose Version 1.0.0-alpha15
+  - Wear Tiles Version 1.1.0-alpha01
+  - Wear Tiles Version 1.0.1
+  - Window Version 1.0.0
+    - Support for folding phones through WindowInfoTracker and FoldingFeature. WindowMetricsCalculator to help calculate the current WindowMetrics.
+
+### r/androiddev
+
+- [Ever wonder how Android Access View Items evolve over the years?](https://www.reddit.com/r/androiddev/comments/sg6f2z/ever_wonder_how_android_access_view_items_evolve/)
+- [Keep API Key Outside of Gradle and Git](https://www.reddit.com/r/androiddev/comments/semy8q/keep_api_key_outside_of_gradle_and_git/)
 
 ## 01/16 ~
 
@@ -18,6 +82,7 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android)
 - [Baseline Profiles](https://developer.android.com/studio/profile/baselineprofiles)
 - [Jetnews for every screen](https://medium.com/androiddevelopers/jetnews-for-every-screen-4d8e7927752)
+- [12L Beta](https://developer.android.com/about/versions/12/12L)
 - lib update
   - [Firebase BoM v29.0.4](https://firebase.google.com/support/release-notes/android#2022-01-20)
 
