@@ -1,5 +1,17 @@
 # Android Weekly Updates (February 2022)
 
+## 02/07 ~
+
+### Google Developers
+
+- [DataStore: Best practices - MAD Skills](https://www.youtube.com/watch?v=S10ci36lBJ4)
+
+### Other
+
+- [Preview of Kotlin 1.6.20 With Prototype of Context Receivers, Parallel Compilation on JVM, Incremental Compilation in JS, and More](https://blog.jetbrains.com/kotlin/2022/02/kotlin-1-6-20-m1-released/)
+- [Glide v4.13.0](https://github.com/bumptech/glide/releases)
+- [OkHttp 5.0.0 alpha4](https://github.com/square/okhttp)
+
 ## 02/01 ~
 
 ### Google Developers
