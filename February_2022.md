@@ -1,5 +1,26 @@
 # Android Weekly Updates (February 2022)
 
+## 02/14 ~
+
+### Google Developers
+
+- [Discontinuing Kotlin synthetics for views](https://android-developers.googleblog.com/2022/02/discontinuing-kotlin-synthetics-for-views.html)
+  - だいぶ前になくなってた気がしてた。
+  - [r/andoiddev responses](https://www.reddit.com/r/androiddev/comments/sw1xwd/discontinuing_kotlin_synthetics_for_views/)
+- [Unbundling the stable WindowManager](https://medium.com/androiddevelopers/unbundling-the-stable-windowmanager-a5471ff2907)
+- [DataStore: Best practices (part 2) - MAD Skills](https://www.youtube.com/watch?v=ZqlZnSdSqI4)
+- lib update
+  - [Dagger/Hilt v2.41](https://github.com/google/dagger/releases)
+  - [gson v2.9.0](https://github.com/google/gson/blob/master/CHANGELOG.md)
+
+### r/androiddev
+
+- [For those who are employed as an android developer. Are you allowed by your employer to develop side projects like your own apps and publish to the store/monetize it? Assuming you used your own time/equipment to develop it?](https://www.reddit.com/r/androiddev/comments/sws0s7/for_those_who_are_employed_as_an_android/)
+
+### Other
+
+- [ktlint v0.44.0](https://github.com/pinterest/ktlint/blob/master/CHANGELOG.md)
+
 ## 02/07 ~
 
 ### Google Developers
