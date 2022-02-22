@@ -1,5 +1,11 @@
 # Android Weekly Updates (February 2022)
 
+## 02/21 ~
+
+### Google Developers
+
+- [DataStore: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=kzYKdog9S1k)
+
 ## 02/14 ~
 
 ### Google Developers
