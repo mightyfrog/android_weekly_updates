@@ -4,7 +4,55 @@
 
 ### Google Developers
 
+- [Android Studio Bumblebee | 2021.1.1 Patch 2 now available](https://androidstudio.googleblog.com/2022/02/android-studio-bumblebee-202111-patch-2.html)
+- [Now in Android: 56 - Jetpack Compose 1.1 stable, DataStore, Android 13 preview, and more!](https://www.youtube.com/watch?v=cFkYjJbjkSo)
+- [Handling exceptions in DataStore - MAD Skills](https://www.youtube.com/watch?v=Q59R8LjR0F8)
 - [DataStore: Live Q&A - MAD Skills](https://www.youtube.com/watch?v=kzYKdog9S1k)
+- [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#february_23_2022)
+  - Activity Version 1.5.0-alpha03
+  - AppCompat AppCompat-Resources Version 1.6.0-alpha01
+  - Benchmark Version 1.1.0-beta04
+  - Camera Version 1.1.0-beta02
+  - Compose Animation Version 1.1.1
+  - Compose Compiler Version 1.1.1
+  - Compose Foundation Version 1.1.1
+  - Compose Material Version 1.1.1
+  - Compose Runtime Version 1.1.1
+  - Compose UI Version 1.1.1
+  - Compose Animation Version 1.2.0-alpha04
+  - Compose Compiler Version 1.2.0-alpha04
+  - Compose Foundation Version 1.2.0-alpha04
+  - Compose Material Version 1.2.0-alpha04
+  - Compose Material 3 Version 1.0.0-alpha06
+  - Compose Runtime Version 1.2.0-alpha04
+  - Compose UI Version 1.2.0-alpha04
+  - Core Core-Ktx Version 1.9.0-alpha01
+  - Core Core-Ktx Version 1.8.0-alpha05
+  - Core-RemoteViews Version 1.0.0-alpha03
+  - CustomView Version 1.2.0-alpha01
+  - Drag And Drop Version 1.0.0-alpha04
+  - Emoji2 Version 1.1.0
+  - Emoji2 Version 1.2.0-alpha01
+  - Fragment Version 1.5.0-alpha03
+  - Games-Activity Games-Controller Version 1.1.0
+  - Games-Frame-Pacing Version 1.10.0
+  - Games-Memory-Advice Version 1.0.0-alpha01
+  - Glance Version 1.0.0-alpha03
+  - Lifecycle Version 2.5.0-alpha03
+  - Media Version 1.6.0-alpha01
+  - Navigation Version 2.5.0-alpha03
+  - Room Version 2.5.0-alpha01
+  - Room Version 2.4.2
+  - Sqlite Version 2.3.0-alpha01
+  - Wear Version 1.3.0-alpha02
+  - Wear Compose Version 1.0.0-alpha17
+  - Wear Tiles Version 1.1.0-alpha03
+  - [Android Gradle plugin v7.1.2](https://developer.android.com/studio/releases/gradle-plugin#7-1-0)
+
+### Other
+
+- [Glide v4.13.1](https://github.com/bumptech/glide/releases/tag/v4.13.1)
+- [OkHttp v5.0.0-alpha.5](https://square.github.io/okhttp/changelogs/changelog/)
 
 ## 02/14 ~
 
