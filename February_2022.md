@@ -49,6 +49,17 @@
   - Wear Tiles Version 1.1.0-alpha03
   - [Android Gradle plugin v7.1.2](https://developer.android.com/studio/releases/gradle-plugin#7-1-0)
 
+### r/androiddev
+
+- [Plugin to generate Java/Kotlin documentation using AI](https://www.reddit.com/r/androiddev/comments/t2axyu/plugin_to_generate_javakotlin_documentation_using/)
+  - 面白いけど要らないドキュメントかな。
+- [What important due dates are in 2022 for Android Development.](https://www.reddit.com/r/androiddev/comments/t1hs8s/what_important_due_dates_are_in_2022_for_android/)
+  - Data Safety form deadline has been pushed back to July 20
+  - Updated Terms of Service for Firebase integrated Google Analytics (15 March 2022)
+  - New Google Maps renderer (June 2022)
+  - jcenter down in march (becomes read-only)
+  - Android Emoji Policy (20 April 2022)
+
 ### Other
 
 - [Glide v4.13.1](https://github.com/bumptech/glide/releases/tag/v4.13.1)
