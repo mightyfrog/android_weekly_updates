@@ -48,6 +48,7 @@
   - Wear Compose Version 1.0.0-alpha17
   - Wear Tiles Version 1.1.0-alpha03
   - [Android Gradle plugin v7.1.2](https://developer.android.com/studio/releases/gradle-plugin#7-1-0)
+  - [ExoPlayer v2.17.0](https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md)
 
 ### r/androiddev
 
