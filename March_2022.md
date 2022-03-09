@@ -4,6 +4,7 @@
 
 ### Google Developers
 
+- [#TheAndroidShow: Tablets, Jetpack Compose, and Android 13](https://www.youtube.com/watch?v=WL9h46CymlU)
 - [Freeing up 60% of storage for apps](https://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html)
 
 ## 03/01 ~
