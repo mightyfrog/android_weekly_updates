@@ -1,5 +1,11 @@
 # Android Weekly Updates (March 2022)
 
+## 03/07 ~
+
+### Google Developers
+
+- [Freeing up 60% of storage for apps](https://android-developers.googleblog.com/2022/03/freeing-up-60-of-storage-for-apps.html)
+
 ## 03/01 ~
 
 ### Google Developers
