@@ -1,5 +1,13 @@
 # Android Weekly Updates (March 2022)
 
+## 03/14 ~
+
+### Google Developers
+
+- [App open ads: An ad format built to optimize user experience](https://admobonair.withgoogle.com/events/apac-open-ads?PubID=pub-7565326605083947)
+  - Niko さんいる！
+- [Jetpack DataStore - wrap up](https://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html)
+
 ## 03/07 ~
 
 ### Google Developers
