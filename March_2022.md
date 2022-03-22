@@ -4,9 +4,39 @@
 
 ### Google Developers
 
+- [Android 13 DP2](https://developer.android.com/about/versions/13#developer-preview-2)
+  - [Blog](https://android-developers.googleblog.com/2022/03/second-preview-android-13.html)
+  - 面倒そうなの多いな
+  - [Notification runtime permission](https://developer.android.com/about/versions/13/changes/notification-permission)
+  - [Foreground Services (FGS) Task Manager](https://developer.android.com/about/versions/13/changes/fgs-manager)
+    - これはよさそう
+  - [Battery Resource Utilization](https://developer.android.com/about/versions/13/changes/battery)
+  - Improved Japanese text wrapping
+    - これは素晴らしい
+    - android:lineBreakWordStyle="phrase"
+- [A story of Android App Excellence: How Lyft improved startup time by 21% for their driver app](https://www.youtube.com/watch?v=nmeuLSM__10)
+- [Now in Android: 57 - App Excellence Summit 2022, AndroidX, and more](https://www.youtube.com/watch?v=nIgyROllQFM)
+- [Android Studio Dolphin Canary 7 now available](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-7-now.html)
+- [Android Studio Dolphin Canary 6 now available](https://androidstudio.googleblog.com/2022/03/android-studio-dolphin-canary-6-now.html)
+- [Architecture: The data layer - MAD Skills](https://www.youtube.com/watch?v=r5AseKQh2ZE)
+- [Introduction to Architecture - MAD Skills](https://www.youtube.com/watch?v=TPWmfJq16rA)
+- [Google I/O 2022](https://io.google/2022/)
+  - 登録開始、5 月 11 日 〜 12 日
 - [App open ads: An ad format built to optimize user experience](https://admobonair.withgoogle.com/events/apac-open-ads?PubID=pub-7565326605083947)
   - Niko さんいる！
 - [Jetpack DataStore - wrap up](https://android-developers.googleblog.com/2022/03/jetpack-datastore-wrap-up.html)
+- [Firebase BOM v29.2.1](https://firebase.google.com/support/release-notes/android)
+- [Google for Games Developer Summit 2022](https://www.youtube.com/playlist?list=PLOU2XLYxmsILAHlMb1od40N3J-locJ6E9)
+  - まだ Stadia の話するのか
+
+### r/androiddev
+
+- [DiscussionWhat do you think about runtime permission for notification on Android 13?](https://www.reddit.com/r/androiddev/comments/tgvqxr/what_do_you_think_about_runtime_permission_for/)
+- [Android 13 Developer Preview 2](https://www.reddit.com/r/androiddev/comments/tggbys/android_13_developer_preview_2/)
+
+### Other
+
+- [ktlint 0.45.1](https://github.com/pinterest/ktlint/blob/master/CHANGELOG.md)
 
 ## 03/07 ~
 
