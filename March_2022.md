@@ -4,12 +4,12 @@
 
 ### Google Developers
 
+- [Android Basics コースとトレーニングのアップデートについて](https://android-developers-jp.googleblog.com/2022/03/android-basics-and-training-update.html)
+- [Using performance class to optimize your user experience](https://android-developers.googleblog.com/2022/03/using-performance-class-to-optimize.html)
+  - これは便利なのでは？
+- [Exploring User Choice Billing With First Innovation Partner Spotify](https://android-developers.googleblog.com/2022/03/user-choice-billing.html)
+  - [ars TECHNICA 記事](https://arstechnica.com/gadgets/2022/03/google-pilots-alternative-play-store-billing-options-but-only-for-spotify/)
 - lib update
-  - [Android Basics コースとトレーニングのアップデートについて](https://android-developers-jp.googleblog.com/2022/03/android-basics-and-training-update.html)
-  - [Using performance class to optimize your user experience](https://android-developers.googleblog.com/2022/03/using-performance-class-to-optimize.html)
-    - これは便利なのでは？
-  - [Exploring User Choice Billing With First Innovation Partner Spotify](https://android-developers.googleblog.com/2022/03/user-choice-billing.html)
-    - [ars TECHNICA 記事](https://arstechnica.com/gadgets/2022/03/google-pilots-alternative-play-store-billing-options-but-only-for-spotify/)
   - [android-maps-compose v2.0.0](https://github.com/googlemaps/android-maps-compose/releases/tag/v2.0.0)
   - [Firebase BoM v29.3.0](https://firebase.google.com/support/release-notes/android)
 
