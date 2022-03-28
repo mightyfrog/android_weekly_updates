@@ -1,5 +1,29 @@
 # Android Weekly Updates (March 2022)
 
+## 03/21 ~
+
+### Google Developers
+
+- lib update
+  - [Android Basics コースとトレーニングのアップデートについて](https://android-developers-jp.googleblog.com/2022/03/android-basics-and-training-update.html)
+  - [Using performance class to optimize your user experience](https://android-developers.googleblog.com/2022/03/using-performance-class-to-optimize.html)
+    - これは便利なのでは？
+  - [Exploring User Choice Billing With First Innovation Partner Spotify](https://android-developers.googleblog.com/2022/03/user-choice-billing.html)
+    - [ars TECHNICA 記事](https://arstechnica.com/gadgets/2022/03/google-pilots-alternative-play-store-billing-options-but-only-for-spotify/)
+  - [android-maps-compose v2.0.0](https://github.com/googlemaps/android-maps-compose/releases/tag/v2.0.0)
+  - [Firebase BoM v29.3.0](https://firebase.google.com/support/release-notes/android)
+
+### r/androiddev
+
+- [Real-time multiplayer drawing & chat game demo app built entirely with Jetpack Compose.](https://www.reddit.com/r/androiddev/comments/tm4ecr/realtime_multiplayer_drawing_chat_game_demo_app/)
+- [android devs in multi-modular projects be like](https://www.reddit.com/r/androiddev/comments/tknhd9/android_devs_in_multimodular_projects_be_like/)
+- [Just because Jetpack Compose is out, it does not mean we have to bury the old XML](https://www.reddit.com/r/androiddev/comments/tkd896/just_because_jetpack_compose_is_out_it_does_not/)
+  - リスト系は困ってる人多そうだな。
+
+### Other
+
+- [accompanist v0.24.5-alpha](https://github.com/google/accompanist/releases/tag/v0.24.5-alpha)
+
 ## 03/14 ~
 
 ### Google Developers
