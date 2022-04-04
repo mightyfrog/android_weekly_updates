@@ -9,6 +9,10 @@
   - これは便利なのでは？
 - [Exploring User Choice Billing With First Innovation Partner Spotify](https://android-developers.googleblog.com/2022/03/user-choice-billing.html)
   - [ars TECHNICA 記事](https://arstechnica.com/gadgets/2022/03/google-pilots-alternative-play-store-billing-options-but-only-for-spotify/)
+- [Modern media playback on Android - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=OYy41ceW59s)
+- [Android vitals on Google Play Console](https://www.youtube.com/watch?v=C9MZNEW20B4)
+- [Account Linking - Integrate with Android TV & Google TV](https://www.youtube.com/watch?v=-Fa99hpUsdk)
+- [Architecture: The UI layer - MAD Skills](https://www.youtube.com/watch?v=p9VR8KbmzEE)
 - lib update
   - [android-maps-compose v2.0.0](https://github.com/googlemaps/android-maps-compose/releases/tag/v2.0.0)
   - [Firebase BoM v29.3.0](https://firebase.google.com/support/release-notes/android)
