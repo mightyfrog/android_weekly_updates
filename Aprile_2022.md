@@ -6,8 +6,7 @@
 
 - [Twitter going all in on Jetpack Compose for feature development: greater productivity, less bugs](https://android-developers.googleblog.com/2022/04/twitter-going-all-in-on-jetpack-compose.html)
   - [reddit](https://www.reddit.com/r/androiddev/comments/u7icod/twitter_going_all_in_on_jetpack_compose_for/)
-- [Measure and improve performance with Macrobenchmark](https://medium.com/androiddevelopers/measure-and-improve-performance-with-macrobenchmark-560abd0aa5bb
-- )
+- [Measure and improve performance with Macrobenchmark](https://medium.com/androiddevelopers/measure-and-improve-performance-with-macrobenchmark-560abd0aa5bb)
 - [lib update](https://developer.android.com/jetpack/androidx/versions/all-channel#april_20_2022)
   - Activity Version 1.5.0-beta01
   - Benchmark Version 1.1.0-rc01
